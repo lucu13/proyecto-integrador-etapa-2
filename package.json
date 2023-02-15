@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-integrador-etapa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --no-source-map --watch sass/main.scss public/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "express-session": "^1.17.3",
+    "sass": "^1.58.0"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
